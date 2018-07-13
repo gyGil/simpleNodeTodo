@@ -4,9 +4,9 @@ const {Todo} = require('./../server/models/todo');
 
 var id = '5b490c91e37b22327fb95f29';
 
-if (!ObjectId.isValid(id)) {
-    console.log('ID not valid');
-}
+// if (!ObjectId.isValid(id)) {
+//     console.log('ID not valid');
+// }
 // Todo.find({
 //     _id: id
 // }).then((todos) => {
