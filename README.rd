@@ -6,7 +6,7 @@
 - The code contains test set for each Api.
 - It is deployed to Heroku
 
-## Usage
+# Usage
 - Run App: node server/server.js
 - Test App: npm test
 
